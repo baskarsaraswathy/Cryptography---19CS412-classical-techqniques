@@ -2,6 +2,12 @@
 # Caeser Cipher
 Caeser Cipher using with different key values
 
+**DATE:** 19.03.2025
+
+**NAME:** BASKAR J
+
+**REG NO:** 212223040025
+
 # AIM:
 
 To encrypt and decrypt the given message by using Ceaser Cipher encryption algorithm.
@@ -78,6 +84,12 @@ The program is executed successfully
 
 # PlayFair Cipher
 Playfair Cipher using with different key values
+
+**DATE:** 19.03.2025
+
+**NAME:** BASKAR J
+
+**REG NO:** 212223040025
 
 # AIM:
 
