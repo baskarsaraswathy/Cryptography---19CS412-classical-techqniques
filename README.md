@@ -1,5 +1,5 @@
 # Cryptography---19CS412-classical-techqniques
-# Caeser Cipher
+# EXP-1-Caeser Cipher
 Caeser Cipher using with different key values
 
 **DATE:** 19.03.2025
@@ -82,7 +82,7 @@ The program is executed successfully
 
 ---------------------------------
 
-# PlayFair Cipher
+# EXP-2-PlayFair Cipher
 Playfair Cipher using with different key values
 
 **DATE:** 19.03.2025
@@ -288,7 +288,7 @@ The program is executed successfully
 
 ---------------------------
 
-# Hill Cipher
+# EXP-3-Hill Cipher
 Hill Cipher using with different key values
 
 **DATE:** 26.03.2025
@@ -376,7 +376,7 @@ The program is executed successfully
 
 -------------------------------------------------
 
-# Vigenere Cipher
+# EXP-4-Vigenere Cipher
 Vigenere Cipher using with different key values
 
 **DATE:** 26.03.2025
@@ -481,7 +481,7 @@ The program is executed successfully
 
 -----------------------------------------------------------------------
 
-# Rail Fence Cipher
+# EXP-5-Rail Fence Cipher
 Rail Fence Cipher using with different key values
 
 **DATE:** 07.04.2025
