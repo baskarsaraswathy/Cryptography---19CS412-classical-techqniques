@@ -1,5 +1,5 @@
 # Cryptography---19CS412-classical-techqniques
-# Caeser Cipher
+# EXP-1-Caeser Cipher
 Caeser Cipher using with different key values
 
 # AIM:
@@ -81,7 +81,7 @@ The program is executed successfully
 
 ---------------------------------
 
-# PlayFair Cipher
+# EXP-2-PlayFair Cipher
 Playfair Cipher using with different key values
 
 # AIM:
@@ -285,7 +285,7 @@ The program is executed successfully
 
 ---------------------------
 
-# Hill Cipher
+# EXP-3-Hill Cipher
 Hill Cipher using with different key values
 
 # AIM:
@@ -371,7 +371,7 @@ The program is executed successfully
 
 -------------------------------------------------
 
-# Vigenere Cipher
+# EXP-4-Vigenere Cipher
 Vigenere Cipher using with different key values
 
 # AIM:
@@ -441,7 +441,7 @@ The program is executed successfully
 
 -----------------------------------------------------------------------
 
-# Rail Fence Cipher
+# EXP-5-Rail Fence Cipher
 Rail Fence Cipher using with different key values
 
 # AIM:
